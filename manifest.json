@@ -1,0 +1,17 @@
+{
+    "fileLocations": [
+        {
+            "URIs": [
+                "https://proiectiot.s3.eu-central-1.amazonaws.com/data.json"
+                
+
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "JSON",
+        "delimiter": ",",
+        "textqualifier": "'",
+        "containsHeader": "true"
+    }
+}
